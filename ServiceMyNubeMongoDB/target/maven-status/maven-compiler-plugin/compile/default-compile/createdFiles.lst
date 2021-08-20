@@ -1,0 +1,10 @@
+com\wladytb\servicemynubemongodb\excepciones\mensajeError.class
+com\wladytb\servicemynubemongodb\filtro\filtro.class
+com\wladytb\servicemynubemongodb\accesoDatos\filesDAO.class
+com\wladytb\servicemynubemongodb\webServices\FileResource.class
+com\wladytb\servicemynubemongodb\accesoDatos\conexion.class
+com\wladytb\servicemynubemongodb\webServices\ApplicationConfig.class
+com\wladytb\servicemynubemongodb\webServices\userResource.class
+com\wladytb\servicemynubemongodb\accesoDatos\userDAO.class
+com\wladytb\servicemynubemongodb\modelo\user.class
+com\wladytb\servicemynubemongodb\modelo\file.class
